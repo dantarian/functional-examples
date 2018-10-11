@@ -1,12 +1,3 @@
-// Declarative vs Imperative
-// Imperative - telling the computer what to do and how to do it.
-// Declarative - telling the computer what you need to do, and let it figure out how.
-//
-// The less you're thinking about exactly what needs to be done, the more declarative
-// you are. So abstractions aid declarativity.
-//
-// e.g avoiding using "for" loops.
-
 // Immutability
 //
 // Data doesn't change - it's immutable. Create a modified copy instead. This is why
